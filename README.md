@@ -68,9 +68,10 @@ As the Average Daily Rate (ADR) is almost the same on weekdays and weekends, usi
 ---
 
 ## Dashboard images
-![img1](Images/img1.png)
----
-![img2](Images/img2.png)
+![Dashboard Overview](Images/img1.png)  
+
+![Dashboard Overview](Images/img2.png)  
+
 ---
 ## Acknowledgments
 Special thanks to Codebasics for hosting this insightful challenge and providing a real-world case study for hands-on analytics learning
