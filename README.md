@@ -14,26 +14,26 @@ To design a data-driven Power BI dashboard that helps AtliQ Grands identify reve
 
 ---
 ## Hotel & Data Overview
-• Hotel Chain: AtliQ Grands
-• Locations: 4 major cities across India
-• Properties: 7 five-star hotels
-• Room Categories: Standard, Elite, Premium, Presidential
-• Booking Channels: 6 key online platforms plus other direct channels
+- Hotel Chain: AtliQ Grands
+- Locations: 4 major cities across India
+- Properties: 7 five-star hotels
+- Room Categories: Standard, Elite, Premium, Presidential
+- Booking Channels: 6 key online platforms plus other direct channels
 
 ---
 
 ## Data Sources Used
-• dim_date: Calendar data including week numbers, months, and day types
-• dim_hotels: Property IDs, names, categories, and locations
-• dim_rooms: Room class information
-• fact_aggregated_bookings: Daily bookings, capacity, check-in dates by room category and hotel
-• fact_bookings: Detailed booking information (ID, guest count, revenue, platform, status, and ratings)
+- dim_date: Calendar data including week numbers, months, and day types
+- dim_hotels: Property IDs, names, categories, and locations
+- dim_rooms: Room class information
+- fact_aggregated_bookings: Daily bookings, capacity, check-in dates by room category and hotel
+- fact_bookings: Detailed booking information (ID, guest count, revenue, platform, status, and ratings)
 
 --- 
 ## KPIs Created Using DAX
-Total Bookings | Total Revenue | Total Capacity | Average Rating | Realisation %
-Total Successful Bookings | Occupancy % | Total Cancelled Bookings
-Cancellation Rate | Revenue Loss | ADR | RevPAR | No Show Rate % | DSRN 
+- Total Bookings | Total Revenue | Total Capacity | Average Rating | Realisation %
+- Total Successful Bookings | Occupancy % | Total Cancelled Bookings
+- Cancellation Rate | Revenue Loss | ADR | RevPAR | No Show Rate % | DSRN 
 
 --- 
 ## Tools & Technologies Used
@@ -68,9 +68,9 @@ As the Average Daily Rate (ADR) is almost the same on weekdays and weekends, usi
 ---
 
 ## Dashboard images
-![Dashboard_images](Dashboard_images/img1.png)
+![img1](Dashboard_images/img1.png)
 ---
-![Dashboard_images](Dashboard_images/img2.png)
+![img2](Dashboard_images/img2.png)
 ---
 ## Acknowledgments
 Special thanks to Codebasics for hosting this insightful challenge and providing a real-world case study for hands-on analytics learning
