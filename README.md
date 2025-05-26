@@ -69,8 +69,8 @@ As the Average Daily Rate (ADR) is almost the same on weekdays and weekends, usi
 
 ## Dashboard images
 
-![img1](Images/img1.png)
-![img1](Images/img2.png)
+![img](Images/img.PNG)
+![imgg](Images/imgg.PNG)
 
 ---
 ## Acknowledgments
